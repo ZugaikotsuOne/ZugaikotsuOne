@@ -34,4 +34,4 @@
 - 🌱 Estou atualmente estudando Javascript/Typescript
 - 🤔 Estou muito ansioso para melhorar minha base e começar a trabalhar alguma framework... provavelmente Angular :D
 - ⚡ Fato curioso, o primeiro vírus de computador foi criado em 1986 foi apelidado de Brain.
--->
+
